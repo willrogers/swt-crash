@@ -1,0 +1,13 @@
+*~
+*.swp
+*.orig
+bin/
+classes/
+build/build
+build/ext
+target/
+dist/
+
+# ignore all log files ?
+logs/*.log
+log/*.log
